@@ -12,6 +12,6 @@ In this repository there is a [example web page](index.html), your task is to mo
 
 ![drag](./screenshots/drag.gif)
 
-3. Determine the largest element that is contained within the area that the user has drawn and add a red outline to that element *(hint: `document.elementsFromPoint` and `MutationObserver` are two APIs you can use to help determine what elements are in given area)*
+3. Determine the largest element that is contained within the area that the user has drawn and add a red outline to that element *(hint: `document.elementsFromPoint` and `IntersectionObserver` are two APIs you can use to help determine what elements are in given area)*
 
 ![highlight](./screenshots/highlight.gif)
